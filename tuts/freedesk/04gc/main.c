@@ -1,7 +1,9 @@
 #include <unistd.h>     // pause
-#include <xcb/xcb.h>
+#include <stdlib.h>
 #include <stdio.h>
 #include <inttypes.h>
+
+#include <xcb/xcb.h>
 
 int main(){
     // open connection to the x server

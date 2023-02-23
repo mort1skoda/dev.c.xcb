@@ -1,5 +1,3 @@
-
-
 CC=clang
 CFLAGS=-Wall -Werror -g
 OUT=xcb
